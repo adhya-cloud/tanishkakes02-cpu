@@ -1,115 +1,79 @@
-<h1 align="center">Hi, I'm Tanishka Kesarwani 👋</h1>
+# Hi, I'm Tanishka Kesarwani 👋
 
-<p align="center">
-  <em>CSE Student &nbsp;|&nbsp; Data & ML Enthusiast &nbsp;|&nbsp; Aspiring Software Developer</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanishka-kesarwani-8bb442377/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+### 🎓 Computer Science & Engineering Student | 📊 Data & ML Enthusiast | 💻 Aspiring Software Developer
 
 ---
 
 ## 🙋‍♀️ About Me
 
-I'm **Tanishka**, a **Computer Science & Engineering student** passionate about turning data into insights and code into solutions.
+I'm Tanishka, a passionate Computer Science & Engineering student currently pursuing my B.Tech at ABES Institute of Technology, Ghaziabad. My journey in tech is driven by a strong desire to transform data into actionable insights and craft robust software solutions. I believe in the power of continuous learning and hands-on experience, embracing the motto: "Learn by doing — every line of code is progress."
 
-- 🎓 Pursuing **B.Tech in CSE** @ **ABES Institute of Technology, Ghaziabad**
-- 🌱 Currently learning: **Python, Machine Learning, Data Analysis, DSA**
-- 🎯 Goal: Build real-world data & ML projects that solve genuine problems
-- 💡 Mindset: "Learn by doing — every line of code is progress"
-- 📍 Based in India
+- **Currently Learning:** Python, Machine Learning, Data Analysis, Data Structures & Algorithms (DSA)
+- **Goal:** To build impactful, real-world data and machine learning projects that address genuine challenges.
+- **Location:** India
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-**Languages**
+Here's a snapshot of my technical toolkit:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Languages
 
-**Data & ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+### Machine Learning & Data Analysis
 
-**Core CS Subjects**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-![DSA](https://img.shields.io/badge/DSA-FF6B6B?style=flat-square&logo=leetcode&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![OS](https://img.shields.io/badge/Operating%20Systems-FCC624?style=flat-square&logo=linux&logoColor=black)
-![OOP](https://img.shields.io/badge/OOP-FF9800?style=flat-square&logo=java&logoColor=white)
+### Computer Science Fundamentals
 
-**Tools**
+![DSA](https://img.shields.io/badge/DSA-FF5722?style=for-the-badge&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-4CAF50?style=for-the-badge&logoColor=white) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-FFC107?style=for-the-badge&logoColor=black) ![OOP](https://img.shields.io/badge/OOP-9C27B0?style=for-the-badge&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [🔍 Exploratory Data Analysis](https://github.com/tanishkakes02-cpu/Exploratory-Data-Analysis-EDA-Project) | In-depth EDA with visualizations | Python, CSS |
-| [🤖 Predictive Modeling](https://github.com/tanishkakes02-cpu/Predictive-Modeling-Using-Machine-Learning) | ML models for real-world prediction tasks | Python |
-| [🧹 Data Cleaning & Visualization](https://github.com/tanishkakes02-cpu/Data-Cleaning-Visualization-Project) | End-to-end data wrangling & charting | Python |
-| [🌐 Real-World Data Project](https://github.com/tanishkakes02-cpu/Real-world-Data-Project-Finance-Health-or-Retail-) | Finance / Health / Retail data project | JavaScript |
-| [📱 Fresh Check App](https://github.com/tanishkakes02-cpu/Fresh_Check) | Mobile app built with Flutter/Dart | Dart |
+Here are some of my notable projects:
 
----
+- **[Real-world-Data-Project-Finance-Health-or-Retail-](https://github.com/tanishkakes02-cpu/Real-world-Data-Project-Finance-Health-or-Retail-)**
+  - *Description:* A project demonstrating data analysis and insights in a real-world domain (Finance, Health, or Retail).
+  - *Technologies:* JavaScript (as per GitHub repo analysis)
 
-## 🗺️ My CSE Journey
+- **[Predictive-Modeling-Using-Machine-Learning](https://github.com/tanishkakes02-cpu/Predictive-Modeling-Using-Machine-Learning)**
+  - *Description:* Focuses on building and evaluating predictive models using various machine learning algorithms.
+  - *Technologies:* Python
 
-```
-Year 1  ──►  Core Foundations
-             └─ C, C++, Python basics
-             └─ Data Structures & Algorithms
-             └─ Started version control with Git
+- **[Data-Cleaning-Visualization-Project](https://github.com/tanishkakes02-cpu/Data-Cleaning-Visualization-Project)**
+  - *Description:* Showcases skills in data preprocessing, cleaning, and creating compelling visualizations.
+  - *Technologies:* Python
 
-Year 2  ──►  Applied CS & Data Science
-             └─ DBMS, OS, OOP concepts
-             └─ EDA, Data Cleaning, Visualization
-             └─ Machine Learning (Predictive Modeling)
+- **[Exploratory-Data-Analysis-EDA-Project](https://github.com/tanishkakes02-cpu/Exploratory-Data-Analysis-EDA-Project)**
+  - *Description:* An in-depth exploration of datasets to uncover patterns, anomalies, and test hypotheses.
+  - *Technologies:* CSS (as per GitHub repo analysis - *Note: This might indicate a web-based EDA report or dashboard. Further investigation might be needed for a more precise description.*)
 
-Now     ──►  Building & expanding
-             └─ Real-world projects across domains
-             └─ Flutter/Dart app development
-             └─ Next: Deep Learning, SQL, System Design
-```
+- **[Fresh_Check](https://github.com/tanishkakes02-cpu/Fresh_Check)**
+  - *Description:* A mobile application project, likely focused on a specific utility or service.
+  - *Technologies:* Dart
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishkakes02-cpu&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishkakes02-cpu&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
-</p>
+![Tanishka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishkakes02-cpu&show_icons=true&theme=radical)
 
 ---
 
-## 📬 Let's Connect
+## 🤝 Connect with Me
 
-Open to collaborating on CSE projects, open source, and connecting with fellow learners!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishka-kesarwani-8bb442377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-- 💼 **LinkedIn:** [Tanishka Kesarwani](https://www.linkedin.com/in/tanishka-kesarwani-8bb442377/)
-- 🐙 **GitHub:** [@tanishkakes02-cpu](https://github.com/tanishkakes02-cpu)
+Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
 
 ---
 
-<p align="center">
-  <em>"The journey of a thousand miles begins with a single step — and a single commit." 🚀</em>
-</p>
+*This README was generated and optimized by Manus AI.*
